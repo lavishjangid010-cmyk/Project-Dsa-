@@ -8,10 +8,10 @@ A terminal-based Online Examination Result Analyzer developed in C using fundame
 
 | Roll Number | Student Name |
 |-------------|--------------|
-| `25EGJIT014` | Krishna Sharma 1 |
-| `25EGJIT015` | Kuldeep Prjapat 2 |
-| `25EGJIT017` | Lavish Jangid 3 |
-| `25EGJIT018` | Laxmi Kumavat 4 |
+| `25EGJIT014` | Krishna Sharma |
+| `25EGJIT015` | Kuldeep Prjapat |
+| `25EGJIT017` | Lavish Jangid |
+| `25EGJIT018` | Laxmi Kumavat |
 
 ---
 
